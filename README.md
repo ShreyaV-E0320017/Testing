@@ -1,5 +1,5 @@
 # Testing the website using selenium
-This is the task-3 of the GRIP 2021 of The Sparks Foundation internship under the domain Web Development &amp; Designing
+This is the task-6 of the GRIP 2021 of The Sparks Foundation internship under the domain Web Development &amp; Designing
 
 SOFTWARE USED: Python
 IDE USED: PyCharm
